@@ -20,7 +20,7 @@ algorithm competition programme > [here](https://inzva.com/algorithm-competition
 
 | week| questions | solutions |
 |--|--|--|
-| 01 | [here](https://www.hackerrank.com/contests/inzva-01-intro-online-2018) |  |
+| 01 | [here](https://www.hackerrank.com/contests/inzva-01-intro-online-2018) | [here](inzva/algorithm%20competition%20programme/01) |
 | 02 |  |  |
 | 03 |  |  |
 | 04 |  |  |

@@ -1,7 +1,7 @@
 
 ## inzva
  
-### *summer camp  > [here](https://inzva.com/algorithmic-competition-summer-camp-2018-report)* 
+### summer camp  > [here](https://inzva.com/algorithmic-competition-summer-camp-2018-report)
  
 | day| questions | solutions |
 |--|--|--|
@@ -12,7 +12,7 @@
 | 05 | [here](https://www.hackerrank.com/contests/inzva-acsc-foundation-5) | [here](inzva/summer%20camp/05) |
 | 06 | [here](https://www.hackerrank.com/contests/inzva-acsc-foundation-6) | [here](inzva/summer%20camp/06) |
 
-### *algorithm competition programme > [here](https://inzva.com/algorithm-competition-programme-20182019)*
+### algorithm competition programme > [here](https://inzva.com/algorithm-competition-programme-20182019)
 
 | week| questions | solutions |
 |--|--|--|
@@ -20,5 +20,5 @@
 
 ## project euler
 
-### *questions > [here](https://www.hackerrank.com/contests/projecteuler)*
+### questions > [here](https://www.hackerrank.com/contests/projecteuler)
 

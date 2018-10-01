@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*  very easy  */
 
 int main(){
     int n;
@@ -25,5 +26,4 @@ int main(){
         }
     }
     if(f)cout<<"inzva";
-    
 }

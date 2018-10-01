@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/*  medium  */
+
 int arr[300][300];
 
 void draw(int n, int m){
@@ -72,7 +74,7 @@ int main(){
     int c=1;
 
     for(int i=0;i<a/2;i++){
-        c=(n+m)*2-4-8*i;
+        c=(n+m)*2-4-8*i; // rotation number = ( rotation number ) % ( a whole tour )
         rotate(i, r%c, n, m);
     }
     draw(n, m);

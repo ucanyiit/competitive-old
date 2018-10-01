@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/*  easy  */
+
 pair<char,int> arr[200][200];
 
 void incAll(int n, int m){
@@ -45,6 +47,7 @@ int main(){
     int n, m, c;
     cin>>n>>m>>c;   
     char t;
+
     for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             cin>>t;
@@ -54,9 +57,11 @@ int main(){
 
     c--;
     c=c%24;
+
     bool ceven;
     if(c%2==0) ceven=true;
     else ceven=false;
+
     while(c--){
         incAll(n, m);
         if((ceven && c%2==1) || (!ceven && c%2==0)) plantAll(n, m);

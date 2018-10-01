@@ -1,14 +1,12 @@
-// Write your Student class here
+
+/*  very easy  */
 
 class Student { 
-    // Access specifier 
+
     public: 
     
     int scores[5];
-    // Data Members 
-    string geekname; 
-  
-    // Member Functions() 
+
     void input() { 
         int t=0;
         while(t++<5) cin>>scores[t];

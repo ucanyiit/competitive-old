@@ -2,6 +2,7 @@
 
 using namespace std;
     
+/*  very easy  */
 
 int main(){
     int n, m;
@@ -11,5 +12,4 @@ int main(){
     else t1=(n-m+1)/2;
     if((m)/2 < t1) cout<<(m)/2;
     else cout<<t1;
-    
 }

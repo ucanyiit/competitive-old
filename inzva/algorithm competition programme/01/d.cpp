@@ -2,7 +2,16 @@
 
 using namespace std;
 
+/*  medium  */
 
+/*  1- sort the array
+    2- compare first indexes with sorted array's indexes
+        - all the indexes should be same other than changed indexes
+        - changed indexes should be continous ( exception might be ( 1  or less gaps ) or ( only 2 changed indexes )  )
+        - if there are only 2 changed indexes it's swap
+        - if there are more than 2 test reverse 
+    3- profit  */
+    
 int main(){
     int n, t;
     cin>>n;

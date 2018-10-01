@@ -1,5 +1,10 @@
 #include <bits/stdc++.h>
+
 using namespace std;
+
+/*  medium ( actually easy )  */
+
+/*  find all combinations and compare ( 3^17 ) */
 
 long long solve(vector<int> &a, long long p, long long q, long long r, int mask){
     if(a.size() == 0){

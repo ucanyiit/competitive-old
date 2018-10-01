@@ -3,7 +3,10 @@
 questions > [here](https://www.hackerrank.com/contests/projecteuler)
 
 ## inzva
- summer camp  > [here](https://inzva.com/algorithmic-competition-summer-camp-2018-report)
+
+inzva's contests are private contests in hackerrank. here are the contest links.
+
+summer camp  > [here](https://inzva.com/algorithmic-competition-summer-camp-2018-report)
  
  
 | day| questions | solutions |
@@ -20,9 +23,4 @@ algorithm competition programme > [here](https://inzva.com/algorithm-competition
 
 | week| questions | solutions |
 |--|--|--|
-| 01 | [here](https://www.hackerrank.com/contests/inzva-01-intro-online-2018) | [here](inzva/algorithm%20competition%20programme/01) |
-| 02 |  |  |
-| 03 |  |  |
-| 04 |  |  |
-| 05 |  |  |
-| 06 |  |  |
+| 01 - intro | [here](https://www.hackerrank.com/contests/inzva-01-intro-online-2018) | [here](inzva/algorithm%20competition%20programme/01) |

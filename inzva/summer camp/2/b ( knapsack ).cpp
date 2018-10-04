@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*  easy ( knapsack )  */
 
 int main(){
     int n;

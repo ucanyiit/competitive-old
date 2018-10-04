@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*  easy  */
 
 int main(){
     int n,k, tmp;

@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/*  easy  */
+
+/*  just be careful about input size. it's about 10^9. so needs to be solved it in O(n).  */
 
 int main(){
     int n, k;

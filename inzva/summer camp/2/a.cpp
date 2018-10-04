@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*  very easy  */
 
 int main(){
     int n, m, max=0;

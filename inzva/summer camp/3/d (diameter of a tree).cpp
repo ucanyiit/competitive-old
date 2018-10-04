@@ -2,6 +2,11 @@
 
 using namespace std;
 
+/*  easy  */
+
+/*  this question might seem harder, but it's actually very easy. i have a lot of unnecessary code here.
+    all i have done is bfs twice from a random node and finding the farthest node from starting node. and then i got the diameter ( distance between farthests 2 points ) of the tree.
+*/
 
 int main(){
     int n, k, a1, a2;

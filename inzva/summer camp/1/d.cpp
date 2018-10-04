@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/*  easy  */
+
 int sumarray(int arr[], int n, int k){
     int sum=0, tmp;
     for(int i=0;i<n;i++){

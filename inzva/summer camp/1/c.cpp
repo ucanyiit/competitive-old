@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/*  easy ( long to implement but easy )  */
+
 bool flag=false;
 void draw(string tgrid[]){
     if(flag){

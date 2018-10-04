@@ -2,13 +2,18 @@
 
 using namespace std;
 
+/*  medium  */
+
+/*  it's actually a shortest path question. 
+    the only thing needs to be done is adding in ladders and mouths. i thought them like teleporters so they don't add anything to distance if snakes end up on one of them.
+*/
 
 int main(){
     int t;
     cin>>t;
     int a1,a2;
     while(t--){
-        vector<pair<int,int>> adj[101];
+        vector<pair<int,int>> adj[101]; // { distance, adj node }
         bool forbid[101];
         for(int i=1;i<101;i++){
             forbid[i]=false;
@@ -50,6 +55,9 @@ int main(){
             distance[i] = INT_MAX; 
             processed[i] = false;
         }
+
+
+        /*  dijkstra  */
 
         distance[1] = 0;
         q.push({0, 1});

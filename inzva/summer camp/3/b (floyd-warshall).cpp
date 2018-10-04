@@ -2,6 +2,10 @@
 
 using namespace std;
 
+/*  easy  */
+
+/*  as the name suggests it can be solved easily with floyd-warshall */
+
 int main(){
     int n, m, a1, a2, a3;
     cin>>n>>m;

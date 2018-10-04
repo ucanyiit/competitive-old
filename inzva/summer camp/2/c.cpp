@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/*  easy ( simple recursion )  */
+
 int sum;
 void recur(int lim, int i){
 

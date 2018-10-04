@@ -2,6 +2,13 @@
 
 using namespace std;
 
+/*  medium  */
+
+/*  it's again a shortet path algorithm with some changes like a.
+    but this time we need to be careful so that our maxiumum fare would be lowest.
+    we only need to change the djikstra as the distance traveled to highest fare paid coming to that node. so we only need to compare the stored fare and the last paid fare.
+*/
+
 int main(){
     int n, m, a1, a2, a3;
     cin>>n>>m;

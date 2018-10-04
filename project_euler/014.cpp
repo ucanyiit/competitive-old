@@ -38,12 +38,12 @@ using namespace std;
   int arr2[arr.size()];
   copy(arr.begin(), arr.end(), arr2);
 
-  long int annen, baban;
-  cin>>annen;
-  while(annen--){
-    cin>>baban;
+  long int familyfriendlyvariable1, familyfriendlyvariable2;
+  cin>>familyfriendlyvariable1;
+  while(familyfriendlyvariable1--){
+    cin>>familyfriendlyvariable2;
     for(int i=arr.size()-1;i>-1;i--){
-      if(arr2[i]<=baban){
+      if(arr2[i]<=familyfriendlyvariable2){
         cout<<arr2[i]<<endl;
         break;
       }
